@@ -1,1 +1,1 @@
-# DS-JSON-XML-Group-Excersise-Team-16
+For humans, the easier way to read the data would be in a CSV file because it is formatted in a table of data and does not include tags and/or additional coding that isn't necessary for humans. For a computer, JSON would be the easiest way to read the data because it is set up in a coded format which computers can parse through, and it can parse through the data more efficiently in JSON than in XML format. 
